@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ícono">recursos/termometro.png</file>
+    </qresource>
+</RCC>
